@@ -13,7 +13,7 @@ It is not england :)
 
 
 ### Licensing: 
-Each and every file in this repository are licensed under the Apache-2.0 License are are subject to copyright KittyX29 and the englang contributors 
+Each and every file in this repository are licensed under the Apache-2.0 License are are subject to copyright under KittyX29 and the englang contributors 
 
 ### Extra Info: 
 1. Dont just fork this repo, remember to star it too! 🌟
