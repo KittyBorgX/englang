@@ -2,4 +2,12 @@
 
 It is not england :)
 
-This is a programming language
+## This is a programming language !
+
+#### Alright, there are so many langs, why one more you may ask :
+
+###### Here's the story : 
+- When I was learning python, my first programming language, I had trouble learning the syntax, indentation and to just make what I wanted, learning all this was just too much.
+
+- Thats why I wanted to make a language to help people who are new to programming in order to understand datatypes, structs etc. but without having to bother with the syntax, indentation.
+
