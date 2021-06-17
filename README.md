@@ -11,3 +11,15 @@ It is not england :)
 
 - Thats why I wanted to make a language to help people who are new to programming in order to understand datatypes, structs etc. but without having to bother learning the syntax, indentation.
 
+
+### Licensing: 
+Each and every file in this repository are licensed under the Apache-2.0 License are are subject to copyright KittyX29 and the englang contributors 
+
+### Extra Info: 
+1. Dont just fork this repo, remember to star it too! 🌟
+
+### Contact: 
+Discord : https://discord.gg/YfwfA4JbdW
+Website : https://kittyx29.github.io/englang
+
+
