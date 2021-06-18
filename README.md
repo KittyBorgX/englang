@@ -23,6 +23,8 @@ Discord : https://discord.gg/YfwfA4JbdW
 
 Website : https://kittyx29.github.io/englang
 
+##$ Founders
+
 ### Contributors: 
 
 - [@Odyssey346](https://github.com/Odyssey346)
