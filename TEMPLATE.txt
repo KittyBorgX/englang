@@ -15,9 +15,9 @@ Makefile :
 # ===----------------------------------------------------------------------===//
 
 
-C++ : 
+Rust : 
 
-//===----------------- Myfile.cpp - Here is the description ----------------===//
+//===----------------- Myfile.rs - Here is the description -----------------===//
 //
 // This source file is part of the englang open source project
 //
