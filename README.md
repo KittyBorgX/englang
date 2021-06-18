@@ -1,3 +1,16 @@
+<p align=center>
+  <a href="https://github.com/KittyX29/englang">
+    <img src="assets/englang-logo.jpg"></img><br>
+    <!-- <img src="assets/duxcore-text.png"></img> -->
+  </a>
+  <br><br>
+  <a href="https://discord.gg/YfwfA4JbdW">
+    <img src="https://img.shields.io/discord/844279877503025182?label=Discord&logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
+    <img src="https://img.shields.io/github/license/KittyX29/englang?style=for-the-badge" />
+  <hr>
+</p>
+
 # englang
 
 It is not england :)
