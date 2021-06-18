@@ -1,7 +1,7 @@
 <p align=center>
   <a href="https://github.com/KittyX29/englang">
-    <img src="assets/englang-logo-final.png"></img><br>
-    <img src="assets/Screenshot 2021-06-18 at 10.41.01 AM.png"></img>
+    <img src="assets/englang-logo.png"></img><br>
+    <img src="assets/englang-text.png"></img>
   </a>
   <br><br>
   <a href="https://discord.gg/YfwfA4JbdW">
