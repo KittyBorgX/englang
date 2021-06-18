@@ -1,6 +1,6 @@
 <p align=center>
   <a href="https://github.com/KittyX29/englang">
-    <img src="assets/englang-logo.png"></img><br>
+    <img src="assets/englang-logo.jpg"></img><br>
     <img src="assets/englang-text.png"></img>
   </a>
   <br><br>
