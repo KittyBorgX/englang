@@ -19,7 +19,7 @@ It is not england :)
 
 #### Alright, there are so many langs, why one more you may ask :
 
-###### Here's the story :
+##### Here's the story :
 
 - When I was learning python, my first programming language, I had trouble learning the syntax, indentation and to just make what I wanted, learning all this was just too much.
 
